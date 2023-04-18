@@ -45,6 +45,7 @@
         ```bash
         git add <filename> 将文件切换到暂存的状态
         git add * 将所有已修改（未跟踪）的文件暂存
+        git log   可以看到每一次的状态
         ```
 
     - 暂存 → 未修改
