@@ -50,8 +50,8 @@
     - 暂存 → 未修改
 
         ```bash
-        git commit -m "xxxx" 将暂存的文件存储到仓库中
-        git commit -a -m "xxxx" 提交所有已修改的文件（未跟踪的文件不会提交）
+        git commit -m "xxxx日志" 将暂存的文件存储到仓库中
+        git commit -a -m "xxxx日志" 提交所有已修改的文件（未跟踪的文件不会提交）
         ```
 
     - 未修改 → 修改
